@@ -1,0 +1,4 @@
+*bin
+*valgrind
+*.tar
+*_pid
