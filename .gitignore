@@ -1,4 +1,4 @@
 *bin
-*valgrind
+*.log
 *.tar
 *_pid
