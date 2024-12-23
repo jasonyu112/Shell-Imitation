@@ -2,3 +2,4 @@
 *.log
 *.tar
 *_pid
+.DS_Store
